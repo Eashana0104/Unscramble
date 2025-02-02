@@ -1,21 +1,15 @@
-Unscramble app
-=================================
+Unscramble – The Ultimate Word Challenge
 
-Single player game app that displays scrambled words. To play the game, player has to make a
-word using all the letters in the displayed scrambled word.
-This code demonstrates the Android Architecture component- ViewModel and StateFlow.
+Unscramble is a fun and engaging word game where players guess random words and earn points based on their accuracy. The game challenges your vocabulary and quick thinking while keeping track of your progress.
 
+Key Features:
 
-Pre-requisites
---------------
-* Experience with Kotlin syntax.
-* How to create and run a project in Android Studio.
-* How to create composable functions 
+Exciting Word Challenges – Test your word knowledge with randomly generated words.
+Points System – Earn points based on accuracy and speed.
+Smooth & Responsive Gameplay – Built with an intuitive UI for a seamless experience.
+Tech Stack:
 
-
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+Architecture: MVVM – Ensures a clean code structure with efficient data management and UI separation.
+UI Framework: Jetpack Compose – Provides a modern and declarative UI toolkit for building dynamic interfaces.
+Language: Kotlin – A concise and powerful language optimized for Android development.
+Stay tuned as Unscramble continues to evolve with new features and challenges!
